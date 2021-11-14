@@ -22,8 +22,7 @@
 ### 적용 기술
 
 > - Front-End : JavaScript, React.js, SASS, HTML5/CSS
-> - Back-End : Python, Django web framework, My SQL
-> - Common : AWS(S3), RESTful API
+> - Back-End : Django, Python, MySQL, jwt, bcrypt, AWS(EC2, RDS)
 
 ### 구현 기능
 
