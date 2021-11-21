@@ -1,7 +1,6 @@
 ## Wash Korea 프로젝트 Front-end 소개
 
 [데모 영상](https://drive.google.com/file/d/1BbsvlZo2QaIZrlAps9iEAxLlXMc7TCYO/view?usp=sharing)
-[웹 사이트](링크 추가 예정)
 
 [팀명] : Wash Korea(워시 코리아)
 
