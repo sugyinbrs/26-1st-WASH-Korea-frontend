@@ -24,7 +24,6 @@
 ### 적용 기술
 
 > - Front-End : JavaScript, React.js, SASS, HTML5/CSS
-> - Back-End : Django, Python, MySQL, jwt, bcrypt, AWS(EC2, RDS)
 
 ### 구현 기능
 
