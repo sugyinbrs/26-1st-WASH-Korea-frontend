@@ -24,6 +24,7 @@
 ### 적용 기술
 
 > - Front-End : JavaScript, React.js, SASS, HTML5/CSS
+> - Common : Git, Github, Slack, Trello
 
 ### 구현 기능
 
